@@ -1,1 +1,2 @@
-<h1>PiggyPiglet <br/><br/><img width="200px" align="right" src="https://piggypiglet.me/includes/img/tophazard.svg"></h1>
+<h1>PiggyPiglet</h1>
+<img width="200px" align="right" src="https://piggypiglet.me/includes/img/tophazard.svg">
