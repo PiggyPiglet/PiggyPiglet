@@ -1,1 +1,1 @@
-<p>Hello, My name is<br/><h3>PiggyPiglet</h3><p>
+<h3>PiggyPiglet</h3><img src="https://piggypiglet.me/includes/img/tophazard.svg">
