@@ -4,6 +4,4 @@
 
 | test | test | test |
 | --- | --- | --- |
-| <img height="70px" width="150px" src="https://piggypiglet.me/includes/img/portfolio/rpf.png"> |
-| <img height="70px" width="150px" src="https://piggypiglet.me/includes/img/portfolio/gary.png"> |
-| <img height="70px" width="150px" src="https://piggypiglet.me/includes/img/portfolio/papi.png"> |
+| <img height="70px" width="150px" src="https://piggypiglet.me/includes/img/portfolio/rpf.png"> | <img height="70px" width="150px" src="https://piggypiglet.me/includes/img/portfolio/gary.png"> | <img height="70px" width="150px" src="https://piggypiglet.me/includes/img/portfolio/papi.png"> |
