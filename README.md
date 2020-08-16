@@ -2,8 +2,8 @@
 <img width="200px" align="right" src="https://piggypiglet.me/includes/img/tophazard.svg">
 <h3>Portfolio ───────</h3>
 
-| ![RPF](https://piggypiglet.me/includes/img/portfolio/rpf.png) |
-| ![Gary](https://piggypiglet.me/includes/img/portfolio/gary.png) |
-| ![PlaceholderAPI](https://piggypiglet.me/includes/img/portfolio/papi.png) |
+| <img height="100px" width="200px" src="https://piggypiglet.me/includes/img/portfolio/rpf.png"> |
+| <img height="100px" width="200px" src="https://piggypiglet.me/includes/img/portfolio/gary.png"> |
+| <img height="100px" width="200px" src="https://piggypiglet.me/includes/img/portfolio/papi.png"> |
 | --- | --- | --- |
 | test | test | test |
