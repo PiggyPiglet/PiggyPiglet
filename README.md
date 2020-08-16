@@ -10,5 +10,5 @@
 | --- | --- | --- |
 | <a href="https://github.com/PiggyPiglet/RandomSpawn"><img height="80px" width="170px" src="https://piggypiglet.me/includes/img/portfolio/rs.png"></a> | <a href="https://github.com/HelpChat/PlaceholderAPI-Discord-Bot"><img height="80px" width="170px" src="https://piggypiglet.me/includes/img/portfolio/papibot.png"></a> | <a href="https://github.com/HelpChat"><img height="80px" width="170px" src="https://piggypiglet.me/includes/img/portfolio/helpchat.png"></a> |
 
-<h3 align="left">─────── Contact</h3>
-<p align="left">Come chat to me in <a href="https://helpch.at/discord">HelpChat</a>, or<br/>my personal <a href="https://piggypiglet.me/discord">discord</a>.</p>
+<h3 align="right">─────── Contact</h3>
+<h2 align="right">Come chat to me in <a href="https://helpch.at/discord">HelpChat</a>, or<br/>my personal <a href="https://piggypiglet.me/discord">discord</a>.</h2>
