@@ -12,3 +12,4 @@
 
 <h3 align="right">─────── Contact</h3>
 <h4 align="right"><img width="200px" align="left" src="https://piggypiglet.me/includes/img/bottomhazard.svg">Come chat to me in <a href="https://helpch.at/discord">HelpChat</a>, or<br/>my personal <a href="https://piggypiglet.me/discord">discord</a>.</h4>
+<p>Yeah... this readme is pretty fugly, tried to make it look like my actual <a href="https://piggypiglet.me">site</a>, didn't really work though .-.</p>
