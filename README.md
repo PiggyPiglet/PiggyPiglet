@@ -1,5 +1,4 @@
 # [PiggyPiglet](https://piggypiglet.me)
-<img src="https://komarev.com/ghpvc/?username=PiggyPiglet" />
 Hi, I'm Piggy, a student software engineer from the south west of Australia.
 
 ### Projects
@@ -8,3 +7,4 @@ Hi, I'm Piggy, a student software engineer from the south west of Australia.
 
 ### Contact
 Come chat to me in [HelpChat](https://helpch.at/discord), or<br/>my personal [discord](https://piggypiglet.me/discord).
+<img width=0 src="https://komarev.com/ghpvc/?username=PiggyPiglet" />
