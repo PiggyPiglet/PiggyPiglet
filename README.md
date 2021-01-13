@@ -1,4 +1,5 @@
 # [PiggyPiglet](https://piggypiglet.me)
+<img src="https://komarev.com/ghpvc/?username=PiggyPiglet" />
 Hi, I'm Piggy, a student software engineer from the south west of Australia.
 
 ### Projects
